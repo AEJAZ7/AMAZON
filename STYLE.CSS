@@ -451,6 +451,7 @@
     .rh1 {
         padding-left: 31%;
     }
+    
 
     .type1 {
         display: none;
@@ -459,6 +460,7 @@
     .brows {
         display: flex;
         background-color: transparent;
+    
     }
 
     .nav2 {
@@ -922,10 +924,12 @@
         background-position-x: 75%;
     }
 }
-@media(max-width:500px){
+
+@media(max-width:500px) {
     .end1 {
         padding-top: 7%;
     }
+
     .end2 {
         color: #1e96d3;
         display: flex;
@@ -933,38 +937,56 @@
         padding-left: 14%;
         padding-top: 1%;
     }
+
     .pg1 p {
         font-size: small;
         align-items: center;
         text-align: center;
         margin-left: 26%;
-        padding-top: 1%;}
-        .pg1 {
-            background-color: black;
-            padding-left: 3%;
-            transform: translateY(412px);
-            text-align: center;
-            padding-top: 0;
-        }
-        .heading3 {
-            background-color: #fff;
-            height: 79vh;
-        }
-        .heading3 .tittle3 p {
-            font-size: small;}
-            .heading3 .tittle3 h1 {
-                width: 100%;
-                font-size: large;
-            }
-            .t2 {
-                position: relative;
-                top: 340px;
-                padding-bottom: 41px;
-                background-color: black;
-                text-align: center;
-            }
-            .nav2 {
-                padding: left 0;
-                width: 112%;
-            }
+        padding-top: 1%;
+    }
+
+    .pg1 {
+        background-color: black;
+        padding-left: 3%;
+        transform: translateY(412px);
+        text-align: center;
+        padding-top: 0;
+    }
+
+    .heading3 {
+        background-color: #fff;
+        height: 78vh;
+    }
+
+    .heading3 .tittle3 p {
+        font-size: small;
+    }
+
+    .heading3 .tittle3 h1 {
+        width: 100%;
+        font-size: large;
+    }
+
+    .t2 {
+        position: relative;
+        top: 340px;
+        padding-bottom: 52px;
+        background-color: black;
+        text-align: center;
+    }
+
+    .nav2 {
+        padding: left 0;
+        width: 112%;
+    }
+
+    .heading1 {
+        position: relative;
+        top: 285px;
+        text-align: center;
+        width: 100%;
+        background-color: black;
+        padding-bottom: 47px;
+    }
 }

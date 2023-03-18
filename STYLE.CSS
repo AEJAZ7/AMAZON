@@ -1033,4 +1033,24 @@
             color: #fff;
             background-color: transparent;
             width: 55px;}
+            .tf button {
+                width: 78%;
+                font-size: x-small;}
+                .nav2 {
+                    padding: left 0;
+                    width: 152%;
+                }
+                .heading1 {
+                    position: relative;
+                    top: 305px;}
+                    .t2 {
+                        position: relative;
+                        top: 354px;
+                        padding-bottom: 52px;
+                        background-color: black;
+                        text-align: center;
+                    }
+                    .remote {
+                        height: 71vh;
+                        padding-left: 0;}
 }

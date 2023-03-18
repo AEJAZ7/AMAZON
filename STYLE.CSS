@@ -1053,4 +1053,17 @@
                     .remote {
                         height: 71vh;
                         padding-left: 0;}
+                        .pg1 {
+                            background-color: black;
+                            padding-left: 3%;
+                            transform: translateY(396px);
+                            text-align: center;
+                            padding-top: 0;}
+                            .t2 {
+                                position: relative;
+                                top: 384px;
+                                padding-bottom: 52px;
+                                background-color: black;
+                                text-align: center;}
+                            }
 }

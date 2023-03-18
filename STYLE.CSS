@@ -990,3 +990,47 @@
         padding-bottom: 47px;
     }
 }
+@media(max-width:450px){
+    .nav2 {
+        padding: left 0;
+        width: 120%;
+    }
+    .tittle1 {
+        background-image: url(/images/amz2.jpg);
+        width: 100%;
+        height: 93vh;}
+        .allimg img {
+            height: 10vh;
+        }
+        .heading3 {
+            background-color: #fff;
+            height: 58vh;
+        }
+        .pg {
+            background-image: url(/images/pg.jpg);
+            height: 70vh;
+            width: 100%;
+        }
+        .pg1 {
+            background-color: black;
+            padding-left: 3%;
+            transform: translateY(361px);
+            text-align: center;
+            padding-top: 0;}
+            .end {
+                margin-top: 30%;
+                background-color: #0f171e;
+                align-items: center;
+                text-align: center;
+                height: 24vh;}
+}
+@media(max-width:400px){
+    .brows select {
+        background-color: transparent;
+        width: 67px;}
+        .lan select {
+            border: none;
+            color: #fff;
+            background-color: transparent;
+            width: 55px;}
+}

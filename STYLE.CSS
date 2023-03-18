@@ -1042,7 +1042,7 @@
                 }
                 .heading1 {
                     position: relative;
-                    top: 400px;}
+                    top: 395px;}
                     .t2 {
                         position: relative;
                         top: 500px;
@@ -1056,7 +1056,7 @@
                         .pg1 {
                             background-color: black;
                             padding-left: 3%;
-                            transform: translateY(470px);
+                            transform: translateY(450px);
                             text-align: center;
                             padding-top: 0;}
                             .t2 {
